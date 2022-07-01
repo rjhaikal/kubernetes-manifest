@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     app: flaskdemo-staging
-  name: flaskdemo-staging
+  name: flaskdemo-staging1
 spec:
   replicas: 3
   selector:
