@@ -18,7 +18,7 @@ spec:
         app: flaskdemo-staging
     spec:
       containers:
-      - image: rjhaikal/research:2
+      - image: rjhaikal/research:3
         name: flaskdemo-staging
         resources: {}
 status: {}
